@@ -24,7 +24,7 @@ O diretório "client" contém uma aplicação para controle da interface do chat
 Já o diretório "server" contém uma pequena aplicação para gerenciar as salas, usuários e a troca de mensagens.
 
 <h1 align="center">
-  <img alt="Hacker-Chat" src="screen.jpeg" width="250px" />
+  <img alt="Hacker-Chat" src="screen.jpeg" width="100%" />
 </h1>
 
 ## :hammer: Tecnologias
